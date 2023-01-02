@@ -5,7 +5,7 @@ variable "AWS_SECRET_KEY" {
 }
 
 variable "AWS_REGION" {
-  default = "eu-west-1"
+  default = "us-east-1"
 }
 
 variable "AMIS" {
@@ -18,11 +18,11 @@ variable "AMIS" {
 }
 
 variable "PATH_TO_PRIVATE_KEY" {
-  default = "mykey"
+  default = "~/.ssh/terraaform-automation"
 }
 
 variable "PATH_TO_PUBLIC_KEY" {
-  default = "mykey.pub"
+  default = "~/.ssh/terraaform-automation.pub"
 }
 
 variable "INSTANCE_USERNAME" {
