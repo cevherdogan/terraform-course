@@ -68,3 +68,20 @@ Thanos
 Sentinel
 Doppler
 
+
+AWS Solutions Library
+Landing Zone Accelerator on AWS
+
+Deploy a cloud foundation to support highly-regulated workloads and complex compliance requirements
+https://aws.amazon.com/solutions/implementations/landing-zone-accelerator-on-aws/?did=sl_card&trk=sl_card
+
+https://aws.amazon.com/solutions/implementations/cloud-migration-factory-on-aws/?did=sl_card&trk=sl_card
+
+AWS Solutions Library
+Network Orchestration for AWS Transit Gateway
+https://aws.amazon.com/solutions/implementations/network-orchestration-aws-transit-gateway/?did=sl_card&trk=sl_card
+
+Application Monitoring with Amazon CloudWatch
+https://aws.amazon.com/solutions/implementations/application-monitoring-with-cloudwatch/?did=sl_card&trk=sl_card
+
+
