@@ -16,3 +16,7 @@ brew install graphene
 
 inframap generate /Users/cevherdogan/code/terraform-course/demo-2/terraform.tfstate | dot -Tpng > graph.png
 open graph.png
+
+
+pip install diagrams
+
